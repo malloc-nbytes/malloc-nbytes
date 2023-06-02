@@ -105,7 +105,7 @@
 ###
 
 <h5 align="left">zdhdev@yahoo.com</h5>
-
+<p align="center">(ﾉಥДಥ)ﾉ ︵┻━┻･/</p>
 ###
 
 <!--
