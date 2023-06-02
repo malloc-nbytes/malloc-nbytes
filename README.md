@@ -70,6 +70,8 @@
   <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
 </div>
 
 ###
@@ -80,6 +82,8 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Ableton Live-000000?logo=abletonlive&logoColor=white&style=for-the-badge" height="40" alt="abletonlive logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla logo"  />
 </div>
 
 ###
@@ -93,6 +97,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malloc-nbytes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=malloc-nbytes&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h2 align="left">Contact</h2>
+
+###
+
+<h5 align="left">zdhdev@yahoo.com</h5>
 
 ###
 
