@@ -1,8 +1,8 @@
-<h1 align="center">Languages</h1>
+<h1 align="left">Languages</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
@@ -18,19 +18,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fortran" height="40" alt="fortran logo"  />
 </div>
 
 ###
 
-<h3 align="center">Frameworks / Services</h3>
+<h3 align="left">Frameworks / Services</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
@@ -44,11 +40,11 @@
 
 ###
 
-<h1 align="center">OS</h1>
+<h1 align="left">OS</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="40" alt="debian logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
@@ -60,11 +56,11 @@
 
 ###
 
-<h3 align="center">Editors</h3>
+<h3 align="left">Editors</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/GNU Emacs-7F5AB6?logo=gnuemacs&logoColor=white&style=for-the-badge" height="40" alt="gnuemacs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="40" alt="neovim logo"  />
@@ -76,13 +72,17 @@
 
 ###
 
-<h3 align="center">Other</h3>
+<h3 align="left">Other</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Ableton Live-000000?logo=abletonlive&logoColor=white&style=for-the-badge" height="40" alt="abletonlive logo"  />
 </div>
+
+###
+
+<h1 align="left"></h1>
 
 ###
 
