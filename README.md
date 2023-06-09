@@ -88,10 +88,6 @@
 
 ###
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malloc-nbytes&theme=synthwave&layout=pie&langs_count=8&hide=lua,Cmake,Dart,HTML,Makefile,Swift,Kotlin,Shell,Objective-C" />
-</a>
-
 <h2 align="left">Contact</h2>
 
 ###
