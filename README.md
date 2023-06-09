@@ -88,9 +88,9 @@
 
 ###
 
-<!-- <div align="center"> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malloc-nbytes&langs_count=50&hide=lua,Cmake,Dart)
-<!-- </div> -->
+<center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malloc-nbytes&layout=pie&langs_count=8&hide=lua,Cmake,Dart,HTML,Makefile,Swift,Kotlin,Shell,Objective-C)
+</center>
 
 <h2 align="left">Contact</h2>
 
