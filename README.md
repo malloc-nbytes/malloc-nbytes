@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malloc-nbytes"/>
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=malloc-nbytes)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h2 align="left">Contact</h2>
