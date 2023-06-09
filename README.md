@@ -88,9 +88,9 @@
 
 ###
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malloc-nbytes&hide=lua,Cmake)
-</div>
+<!-- <div align="center"> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malloc-nbytes&hide=lua,Cmake)
+<!-- </div> -->
 
 <h2 align="left">Contact</h2>
 
