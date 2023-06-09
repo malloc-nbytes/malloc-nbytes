@@ -88,6 +88,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malloc-nbytes"/>
+</div>
+
 <h2 align="left">Contact</h2>
 
 ###
