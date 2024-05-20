@@ -1,14 +1,32 @@
-<h1 align="center">Current Project</h1>
+<h1 align="center">Current Projects</h1>
+
+###
+
+<h2 align="center">EARL</h2>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/EARL/main/imgs/EARL.jpeg"  />
+  <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/EARL/main/imgs/earl-logo.jpg"  />
 </div>
 
 ###
 
-<h4 align="center">EARL: https://github.com/malloc-nbytes/EARL</h4>
+<h4 align="center">https://github.com/malloc-nbytes/EARL</h4>
+
+###
+
+<h2 align="center">Score</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/Score/main/imgs/score-logo.jpg"  />
+</div>
+
+###
+
+<h4 align="center">https://github.com/malloc-nbytes/Score</h4>
 
 ###
 
@@ -68,7 +86,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malloc-nbytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
