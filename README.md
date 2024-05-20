@@ -2,27 +2,23 @@
 
 ###
 
-<h2></h2>
-
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/EARL/main/imgs/earl-logo.jpg"  />
 </div>
 
-<h3 align="center">EARL</h2>
+<h3 align="center">EARL</h3>
 
 <h4 align="center">https://github.com/malloc-nbytes/EARL</h4>
 
-###
-
-<h2 align="center">Score</h2>
-
-###
+<h2></h2>
 
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/Score/main/imgs/score-logo.jpg"  />
 </div>
 
 ###
+
+<h3 align="center">Score</h3>
 
 <h4 align="center">https://github.com/malloc-nbytes/Score</h4>
 
