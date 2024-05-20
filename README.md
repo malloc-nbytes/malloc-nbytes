@@ -2,33 +2,24 @@
 
 ###
 
-<h2 align="center">EARL</h2>
-
-###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/EARL/main/imgs/earl-logo.jpg"  />
+  <div>
+    <h2 align="center">EARL</h2>
+    <a href="https://github.com/malloc-nbytes/EARL">
+      <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/EARL/main/imgs/earl-logo.jpg"  />
+    </a>
+    <h4 align="center">https://github.com/malloc-nbytes/EARL</h4>
+  </div>
+  
+  <div>
+    <h2 align="center">Score</h2>
+    <a href="https://github.com/malloc-nbytes/Score">
+      <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/Score/main/imgs/score-logo.jpg"  />
+    </a>
+    <h4 align="center">https://github.com/malloc-nbytes/Score</h4>
+  </div>
 </div>
-
-###
-
-<h4 align="center">https://github.com/malloc-nbytes/EARL</h4>
-
-###
-
-<h2 align="center">Score</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/Score/main/imgs/score-logo.jpg"  />
-</div>
-
-###
-
-<h4 align="center">https://github.com/malloc-nbytes/Score</h4>
-
-###
 
 <h1 align="left">Languages</h1>
 
