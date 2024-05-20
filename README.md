@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <div>
+  <div style="float: left; width: 50%;">
     <h2 align="center">EARL</h2>
     <a href="https://github.com/malloc-nbytes/EARL">
       <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/EARL/main/imgs/earl-logo.jpg"  />
@@ -12,7 +12,7 @@
     <h4 align="center">https://github.com/malloc-nbytes/EARL</h4>
   </div>
   
-  <div>
+  <div style="float: right; width: 50%;">
     <h2 align="center">Score</h2>
     <a href="https://github.com/malloc-nbytes/Score">
       <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/Score/main/imgs/score-logo.jpg"  />
