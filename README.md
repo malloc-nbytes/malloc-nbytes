@@ -8,8 +8,6 @@
 
 <h2 align="center">EARL</h2>
 
-###
-
 <h4 align="center">https://github.com/malloc-nbytes/EARL</h4>
 
 ###
