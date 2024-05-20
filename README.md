@@ -2,11 +2,13 @@
 
 ###
 
+<h2></h2>
+
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/EARL/main/imgs/earl-logo.jpg"  />
 </div>
 
-<h2 align="center">EARL</h2>
+<h3 align="center">EARL</h2>
 
 <h4 align="center">https://github.com/malloc-nbytes/EARL</h4>
 
