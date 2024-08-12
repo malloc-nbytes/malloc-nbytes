@@ -12,9 +12,12 @@
 
 <h2></h2>
 
+<!---
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/Score/main/imgs/score-logo.jpg"  />
+ <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/Score/main/imgs/score-logo.jpg"  />
 </div>
+
+-->
 
 ###
 
