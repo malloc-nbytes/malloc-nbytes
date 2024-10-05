@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/EARL/main/imgs/earl-logo.jpg"  />
+  <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/EARL/main/misc/earl-logo.jpg"  />
 </div>
 
 <h3 align="center">EARL</h3>
