@@ -3,6 +3,28 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/ampire/main/assets/logo.png"  />
+</div>
+
+<h3 align="center">Ampire</h3>
+
+<h4 align="center">https://github.com/malloc-nbytes/ampire</h4>
+
+<h2></h2>
+
+<!---
+<div align="center">
+ <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/Score/main/imgs/score-logo.jpg"  />
+</div>
+
+-->
+
+###
+
+
+###
+
+<div align="center">
   <img height="200" src="https://raw.githubusercontent.com/malloc-nbytes/EARL/main/misc/earl-logo.jpg"  />
 </div>
 
