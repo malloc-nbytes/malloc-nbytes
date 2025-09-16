@@ -4,7 +4,7 @@
 
 <h3 align="center">crucible</h3>
 
-<h2>This project is being made on <span><a href='https://www.twitch.tv/malloc_nbytes'>Twitch</a></span></h2>
+<h4 align="center">This project is being made on <span><a href='https://www.twitch.tv/malloc_nbytes'>Twitch</a></span></h2>
 
 <h4 align="center">https://github.com/malloc-nbytes/crucible</h4>
 
